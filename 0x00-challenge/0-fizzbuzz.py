@@ -7,6 +7,7 @@ import sys
 def fizzbuzz(n):
     """
     FizzBuzz function that prints numbers from 1 to n separated by a space.
+
     - For multiples of three, print "Fizz" instead of the number and for
       multiples of five print "Buzz".
     - For numbers that are multiples of both three and five print "FizzBuzz".
